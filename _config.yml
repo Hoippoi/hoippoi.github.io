@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Hoippoi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist? Data Analyst? 그 사이 어딘가"
+  bio              : "Data Scientist? Data Analyst?"
   location         : "Seoul"
   email            :
   links:
