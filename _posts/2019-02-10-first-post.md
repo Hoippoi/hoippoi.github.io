@@ -16,7 +16,7 @@ categories: BERT LanguageModel DeepLearning
 
 다음은 [논문][bert-paper]에서 가져온 pre-training model들의 구조를 비교한 그림입니다.
 
-![bert_f1](./img/bert_fig01.png)
+![bert_f1](../img/bert_fig01.png)
 
 그림 1 : 사전 교육 모델 아키텍처의 차이점. BERT는 양방향 Transformer를 사용합니다. OpenAI GPT는 왼쪽에서 오른쪽으로 변압기를 사용합니다. ELMo는 독립적으로 훈련 된 왼쪽에서 오른쪽 및 오른쪽에서 왼쪽으로 연결되는 LSTM의 연결을 사용하여 다운 스트림 작업을위한 기능을 생성합니다. 세 가지 중에서, BERT 표현 만이 모든 계층의 왼쪽 및 오른쪽 컨텍스트 모두에 공동으로 조건이 지정됩니다.
 
