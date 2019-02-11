@@ -10,7 +10,7 @@ categories: BERT LanguageModel DeepLearning
 
 큰 뱡항은 [BERT 개발팀이 공유한 논문][bert-paper]에 기반하고 있으며, [여러 다른][reference-01] [참고 사이트][reference-02]들의 도움도 많이 받았습니다.
 
-##### Abstract
+### Abstract
 
 최근에 다루어지는 언어 표현 모델들과 달리 (Peters et al., 2018, Radford et al., 2018) BERT는 pre-train된 deep bidirectional 표현 모델입니다. BERT는 모든 계층에서 왼쪽과 오른쪽 양방향의 Context 모두를 조정하며 학습합니다.
 
