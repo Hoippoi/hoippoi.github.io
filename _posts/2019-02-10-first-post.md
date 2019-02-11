@@ -20,7 +20,7 @@ categories: BERT LanguageModel DeepLearning
 
 그림 1: BERT는 양방향 Transformer 구조로 되어있습니다. OpenAI GPT는 왼쪽에서 오른쪽으로 Transformer를 사용하며, ELMo는 독립적인 왼쪽에서 오른쪽, 오른쪽에서 왼쪽으로 연결된 LSTM을 결합한 구조입니다. BERT 표현만이 모든 계층의 좌우 Context를 동시에 고려합니다.
 
-다음으로는 BERT와 그 세부 구현을 소개합니다. BERT에 대한 입력 표현을 다룬 뒤, 본 [논문][bert-paper]의 **핵심 혁신**인 **pre-training tasks**를 소개합니다.
+다음으로는 BERT와 그 세부 구현을 소개합니다. BERT에 대한 입력 표현을 다룬 뒤, 본 [논문][bert-paper]의 **핵심**인 **pre-training tasks**를 소개합니다.
 
 
 
